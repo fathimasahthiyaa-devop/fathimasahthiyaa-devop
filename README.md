@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.png" alt="Fathima Sahthiya — Software Engineering Graduate and Web & Mobile Developer" width="100%" />
+  <img src="./profile-banner.png" alt="Fathima Sahthiya" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Fathima Sahthiya</h1>
@@ -10,7 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-roomy-fathima-sahthiya-11643632a/">Connect with me on LinkedIn</a>
+  <a href="https://www.linkedin.com/in/mohamed-roomy-fathima-sahthiya-11643632a/">
+    Connect with me on LinkedIn
+  </a>
 </p>
 
 ---
