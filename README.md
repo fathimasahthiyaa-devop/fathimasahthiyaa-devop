@@ -1,8 +1,16 @@
+<p align="center">
+  <img src="assets/profile-banner.png" alt="Fathima Sahthiya — Software Engineering Graduate and Web & Mobile Developer" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Fathima Sahthiya</h1>
 
 <p align="center">
   Software Engineering Graduate • Web Designer & Developer<br/>
   Mobile App Developer • Aspiring Business Analyst
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-roomy-fathima-sahthiya-11643632a/">Connect with me on LinkedIn</a>
 </p>
 
 ---
